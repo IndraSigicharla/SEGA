@@ -1,7 +1,7 @@
               precision    recall  f1-score   support
 
-        male       0.97      0.98      0.98      2260
-      female       0.99      0.97      0.98      2478
+        Male       0.97      0.98      0.98      2260
+      Female       0.99      0.97      0.98      2478
 
     accuracy                           0.98      4738
    macro avg       0.98      0.98      0.98      4738
